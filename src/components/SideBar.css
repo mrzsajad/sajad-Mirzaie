@@ -1,0 +1,56 @@
+.sidebar{
+    width: 20%;
+    
+    
+}
+.sidebar-items{
+   border: none; 
+}
+.ListGroup-Item{
+    display: flex;
+    justify-content: center;
+    text-align:right
+}
+.middle-item{
+    
+    width: 70%;
+  
+    
+}
+.itemHover:hover{
+  background-color: rgb(183, 190, 190);
+}
+.ListGroup-margin{
+    margin: 20px;
+}
+.side-icon{
+    box-sizing: border-box;
+    color: rgb(235, 93, 93);
+    border: none;
+    width: 30px;
+    height: 30px;
+    margin-right :5px;
+    margin-left: 5px;
+  }
+  .Pgroup{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25%;
+    text-align: center;
+    
+    
+  }
+  .pcolor{
+    color: rgb(9, 12, 110);
+  }
+
+  .border{
+    border: 0px solid white;
+  }
+  .mid{
+    color: white;
+    background-color:DodgerBlue;
+    width: 100%;
+    font-size: 19px;
+  }
