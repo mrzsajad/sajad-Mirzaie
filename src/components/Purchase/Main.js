@@ -119,9 +119,9 @@ const Main = ({data}) => {
               }}
             >
               <option></option>
-              <option value="saab">Saab</option>
-              <option value="mercedes">Mercedes</option>
-              <option value="audi">Audi</option>
+              <option value="a">1</option>
+              <option value="b">2</option>
+              <option value="c">3</option>
             </select>
             <div style={{ backgroundColor: "rgb(56, 56, 159)", margin: "5px" }}>
               <FiRefreshCcw
@@ -138,7 +138,7 @@ const Main = ({data}) => {
       </div>
       <div style={{ display: "flex", justifyContent: "center" }}>
         <Container fluid>
-          <Row style={{}}>
+          <Row >
             <Col className="a col-2 ">تاریخ</Col>
             <Col className="a col-1 ">مبلغ</Col>
             <Col className="a col-2 ">کاربر</Col>

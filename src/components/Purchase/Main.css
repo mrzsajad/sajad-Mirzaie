@@ -15,7 +15,7 @@
     height: 38px;
     font-size: 14px;
     color: white;
-    background-color: rgb(56, 56, 159);
+    background-color: rgb(56, 56, 159) !important;
     border-radius: 0;
     border-left: 1px solid ;
     
